@@ -1,0 +1,27 @@
+{
+  "name": "odin-project-jest-testing-practice",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CeeZ-11/Odin-Project-Jest-Testing-Practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/CeeZ-11/Odin-Project-Jest-Testing-Practice/issues"
+  },
+  "homepage": "https://github.com/CeeZ-11/Odin-Project-Jest-Testing-Practice#readme",
+  "description": "",
+  "devDependencies": {
+    "@babel/core": "^7.26.0",
+    "@babel/preset-env": "^7.26.0",
+    "babel-jest": "^29.7.0",
+    "jest": "^29.7.0"
+  }
+}
